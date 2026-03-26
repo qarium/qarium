@@ -9,9 +9,6 @@ description = "Framework for vibe coding autotests"
 readme = "README.md"
 requires-python = ">=3.10"
 license = "MIT"
-authors = [
-    { name = "Sergey Nikitin", email = "nikitin.sergey126@gmail.com" }
-]
 classifiers = [
     "Development Status :: 3 - Alpha",
     "Intended Audience :: Developers",
